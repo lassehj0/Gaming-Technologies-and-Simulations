@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JumpOnEnemy
+  - Ground
+  - Bouncy
+  - Enemy
+  - Boss
+  - Coin
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Game
+    uniqueID: 1721568613
+    locked: 0
+  - name: Back
+    uniqueID: 3103558635
+    locked: 0
+  - name: Front
+    uniqueID: 3018163833
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
